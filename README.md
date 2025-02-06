@@ -7,7 +7,7 @@ experiências, uma incrível que tive no HCor, passei em diversas equipes, come�
 Service Desk, equipe de RIS/PACS que atua nos sistemas e tecnologias da radiologia e por fim na área
 de Desenvolvimento de Sistemas, onde era o meu objetivo e estudo antes de atuar, desde que
 iniciei. Atualmente estou na empresa Compass UOL como Full-Stack.
-Sou graduado em Bacharel em Engenharia da Computação, também já finalizei diversos cursos e
+Sou Bacharel em Engenharia da Computação, também já finalizei diversos cursos e
 certificações para atuar como Dev, alguns são: Desenvolvimento .NET, ASP.Net Core, ASP.Net MVC,
 Desenvolvimento Mobile, Desenvolvimento Web, Angular, React, JavaScript, TypeScript, Docker,
 RabbitMQ, Jenkins, AWS, MySQL, Oracle…
