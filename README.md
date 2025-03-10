@@ -9,6 +9,7 @@ Iniciei na empresa Eximia Informática com 16 anos, onde comecei como Estagiári
 Também atuei na Compass UOL como Desenvolvedor Full Stack, aprimorando ainda mais minhas habilidades e conhecimentos. Atualmente, faço parte do Grupo Multi, onde sigo desenvolvendo e inovação.
 
 Sou Bacharel em Engenharia da Computação e concluí diversos cursos e certificações voltados para minha atuação como desenvolvedor.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
