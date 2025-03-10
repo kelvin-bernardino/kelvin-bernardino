@@ -2,16 +2,14 @@
 
 **`Engenheiro da Computação e Desenvolvedor Full-Stack`**
 
-Engenheiro e Desenvolvedor Full-Stack, trabalho com tecnologia desde os 16 anos, e, desde então, sou apaixonado pela área. Tenho +9 anos em funções tecnológicas e várias
-experiências, uma incrível que tive no HCor, passei em diversas equipes, começando como Estagiário em
-Service Desk, equipe de RIS/PACS que atua nos sistemas e tecnologias da radiologia e por fim na área
-de Desenvolvimento de Sistemas, onde era o meu objetivo e estudo antes de atuar, desde que
-iniciei. Atualmente estou na empresa Compass UOL como Full-Stack.
-Sou Bacharel em Engenharia da Computação, também já finalizei diversos cursos e
-certificações para atuar como Dev, alguns são: Desenvolvimento .NET, ASP.Net Core, ASP.Net MVC,
-Desenvolvimento Mobile, Desenvolvimento Web, Angular, React, JavaScript, TypeScript, Docker,
-RabbitMQ, Jenkins, AWS, MySQL, Oracle…
-Sempre em busca de evolução.
+Engenheiro da Computação e Desenvolvedor Full Stack, trabalho com tecnologia desde os 16 anos e, desde então, sou apaixonado pela área. Com +9 anos de experiência em funções tecnológicas, tive a oportunidade de atuar em diversas equipes e adquirir bastante conhecimento.
+
+Iniciei na empresa Eximia Informática com 16 anos, onde comecei como Estagiário no Service Desk interno do HCor, trabalhando em tempo integral e respondendo ao mesmo, fui contratado pelo HCor e passei para equipe responsável pelos sistemas e tecnologias da radiologia RIS/PACS e, por fim, atuei na área de Desenvolvimento de Sistemas, que foi meu objetivo.
+
+Também atuei na Compass UOL como Desenvolvedor Full Stack, aprimorando ainda mais minhas habilidades e conhecimentos. Atualmente, faço parte do Grupo Multi, onde sigo desenvolvendo e inovação.
+
+Sou Bacharel em Engenharia da Computação e concluí diversos cursos e certificações voltados para minha atuação como desenvolvedor.
+Estou sempre buscando ser uma versão melhor de mim mesmo
 
 ---
 
