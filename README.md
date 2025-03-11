@@ -4,7 +4,7 @@
 
 Engenheiro da Computação e Desenvolvedor Full Stack, trabalho com tecnologia desde os 16 anos e, desde então, sou apaixonado pela área. Com +9 anos de experiência em funções tecnológicas, tive a oportunidade de atuar em diversas equipes e adquirir bastante conhecimento.
 
-Iniciei na empresa Eximia Informática com 16 anos, onde comecei como Estagiário no Service Desk interno do HCor, trabalhando em tempo integral e respondendo ao mesmo, fui contratado pelo HCor e passei para equipe responsável pelos sistemas e tecnologias da radiologia RIS/PACS e, por fim, atuei na área de Desenvolvimento de Sistemas, que foi meu objetivo.
+Iniciei no HCor com 16 anos, onde comecei como Estagiário no Service Desk, migrei para equipe de sistemas responsável pelos sistemas e tecnologias da radiologia RIS/PACS e, por fim, atuei na área de Desenvolvimento de Sistemas, atuando como Dev Full Stack.
 
 Também atuei na Compass UOL como Desenvolvedor Full Stack, aprimorando ainda mais minhas habilidades e conhecimentos. Atualmente, faço parte do Grupo Multi, onde sigo desenvolvendo e inovação.
 
