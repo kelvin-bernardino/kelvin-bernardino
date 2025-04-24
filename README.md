@@ -2,17 +2,17 @@
 
 **`Engenheiro da Computação e Desenvolvedor Full-Stack`**
 
-Engenheiro da Computação e Desenvolvedor Full Stack, trabalho com tecnologia desde os 16 anos e, desde então, sou apaixonado pela área. Com +9 anos de experiência em funções tecnológicas, tive a oportunidade de atuar em diversas equipes e adquirir bastante conhecimento.
+Computer Engineer and Full Stack Developer, I have been working with technology since I was 16 years old and have been passionate about the field ever since. With over 9 years of experience in tech roles, I've had the opportunity to work in various teams and gain extensive knowledge.
 
-Iniciei no HCor com 16 anos, onde comecei como Estagiário no Service Desk, migrei para equipe de sistemas responsável pelos sistemas e tecnologias da radiologia RIS/PACS e, por fim, atuei na área de Desenvolvimento de Sistemas, atuando como Dev Full Stack.
+I started at HCor at the age of 16, where I began as an intern in the Service Desk. I then moved to the systems team, responsible for radiology systems and technologies (RIS/PACS), and eventually transitioned to the Systems Development department, which was my goal, working as a Full Stack Developer.
 
-Também atuei na Compass UOL como Desenvolvedor Full Stack, aprimorando ainda mais minhas habilidades e conhecimentos. Atualmente, faço parte do Grupo Multi, onde sigo desenvolvendo e inovação.
+I also worked at Compass UOL as a Full Stack Developer, further enhancing my skills and knowledge. Currently, I am part of Grupo Multi, where I continue to focus on development and innovation.
 
-Sou Bacharel em Engenharia da Computação e concluí diversos cursos e certificações voltados para minha atuação como desenvolvedor.
+I hold a Bachelor's degree in Computer Engineering and have completed several courses and certifications related to my work as a developer.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
