@@ -2,13 +2,7 @@
 
 **`Engenheiro da Computação e Desenvolvedor Full-Stack`**
 
-Engenheiro da Computação e Desenvolvedor Full Stack, trabalho com tecnologia desde os 16 anos e, desde então, sou apaixonado pela área. Com +9 anos de experiência em funções tecnológicas, tive a oportunidade de atuar em diversas equipes e adquirir bastante conhecimento.
-
-Iniciei no HCor com 16 anos, onde comecei como Estagiário no Service Desk, migrei para equipe de sistemas responsável pelos sistemas e tecnologias da radiologia RIS/PACS e, por fim, atuei na área de Desenvolvimento de Sistemas onde era meu objetivo, atuando como Dev Full Stack.
-
-Também atuei na Compass UOL como Desenvolvedor Full Stack, aprimorando ainda mais minhas habilidades e conhecimentos. Atualmente, faço parte do Grupo Multi, onde sigo desenvolvendo e inovação.
-
-Sou Bacharel em Engenharia da Computação e concluí diversos cursos e certificações voltados para minha atuação como desenvolvedor.
+Bacharel em Engenharia da Computação e Desenvolvedor Full Stack, trabalho com tecnologia desde os 16 anos e, desde então, sou apaixonado pela área. Com +9 anos de experiência em funções tecnológicas, tive a oportunidade de atuar em diversas áreas, e adquirir bom conhecimento.
 
 ---
 
